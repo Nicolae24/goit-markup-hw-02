@@ -1,13 +1,12 @@
 body
 {font-family: "Roboto", sans-serif;
-color: #2e2f42;
+color: #434455;
 font-weight: 500;   
 font-size: 16px;
 line-height: 1.5; 
 letter-spacing: 0.02em;
+background-color: #ffffff;
 }
-
-.contact .adr:hover, .contact .adr:focus {color: #4d5ae5;}
 
 .nadvsim {background-color: #FFFFFF;
     font-weight: 500;
@@ -16,6 +15,17 @@ letter-spacing: 0.02em;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.nadvsim:hover, .nadvsim:focus {color: #404bbf;}
+
+.adresa {font-style: normal;}
+
+.adr {font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.adr:hover, .adr:focus {color: #404bbf}
 
 .knopka {cursor: pointer;
     font-weight: 500;
@@ -23,22 +33,19 @@ letter-spacing: 0.02em;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-  width: 169px;
-    height: 56px;
  background-color: #4d5ae5;
 }
 .knopka:hover, .knopka:focus {background-color: #404bbf;}
 
 .title {background-color: #2e2f42;}
     
-.title h1 {font-weight: 700;
-    font-size: 56px;
+.zagolov   {font-size: 56px;
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}    
 
-.small-text h3 {
+.small-text-zag {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -46,7 +53,7 @@ letter-spacing: 0.02em;
         color: #2e2f42;
 
 }
-.small-text p {font-weight: 400;
+.small-text-par {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -56,10 +63,53 @@ letter-spacing: 0.02em;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
-    color: #2e2f42;}
+    text-align: center;
+    color: #2e2f42;
+text-transform: capitalize}
 
 .small-text {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
+
+.logo {font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
+
+.logo-s {font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+color: #2e2f42}    
+.sect-thre {color: #f4f4fd;}
+
+.small-text-zagser {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
+
+.small-text-parser {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;}    
+
+.our-team {background-color: #FFFFFF}
+
+.foter {background-color: #2e2f42;}
+.fot-par { letter-spacing: 0.02em;
+    color: #f4f4fd;}
+.logo-s-f {font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;}    
