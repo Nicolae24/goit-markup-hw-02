@@ -1,0 +1,65 @@
+body
+{font-family: "Roboto", sans-serif;
+color: #2e2f42;
+font-weight: 500;   
+font-size: 16px;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+}
+
+.contact .adr:hover, .contact .adr:focus {color: #4d5ae5;}
+
+.nadvsim {background-color: #FFFFFF;
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.knopka {cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+  width: 169px;
+    height: 56px;
+ background-color: #4d5ae5;
+}
+.knopka:hover, .knopka:focus {background-color: #404bbf;}
+
+.title {background-color: #2e2f42;}
+    
+.title h1 {font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;}    
+
+.small-text h3 {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+
+}
+.small-text p {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+.header-two {font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.small-text {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
